@@ -1,3 +1,3 @@
-lab/util/TestUtil.class
-lab/ManageDemandTest.class
-lab/TaxTest.class
+lab\util\TestUtil.class
+lab\TaxTest.class
+lab\ManageDemandTest.class
