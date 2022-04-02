@@ -2,26 +2,26 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-01T21:12:12 PET" name="Surefire suite" finished-at="2022-04-01T21:12:12 PET" duration-ms="100">
+  <suite started-at="2022-04-01T21:25:15 PET" name="Surefire suite" finished-at="2022-04-01T21:25:15 PET" duration-ms="126">
     <groups>
     </groups>
-    <test started-at="2022-04-01T21:12:12 PET" name="Surefire test" finished-at="2022-04-01T21:12:12 PET" duration-ms="100">
+    <test started-at="2022-04-01T21:25:15 PET" name="Surefire test" finished-at="2022-04-01T21:25:15 PET" duration-ms="126">
       <class name="lab.TaxTest">
-        <test-method signature="taxTestDefault()[pri:0, instance:lab.TaxTest@31f20c9f]" started-at="2022-04-01T21:12:12 PET" name="taxTestDefault" finished-at="2022-04-01T21:12:12 PET" duration-ms="26" status="PASS">
+        <test-method signature="taxTestDefault()[pri:0, instance:lab.TaxTest@f446158]" started-at="2022-04-01T21:25:15 PET" name="taxTestDefault" finished-at="2022-04-01T21:25:15 PET" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- taxTestDefault -->
-        <test-method signature="taxTestSpecial()[pri:0, instance:lab.TaxTest@31f20c9f]" started-at="2022-04-01T21:12:12 PET" name="taxTestSpecial" finished-at="2022-04-01T21:12:12 PET" duration-ms="0" status="PASS">
+        <test-method signature="taxTestSpecial()[pri:0, instance:lab.TaxTest@f446158]" started-at="2022-04-01T21:25:15 PET" name="taxTestSpecial" finished-at="2022-04-01T21:25:15 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- taxTestSpecial -->
       </class> <!-- lab.TaxTest -->
       <class name="lab.ManageDemandTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:lab.ManageDemandTest@f446158]" started-at="2022-04-01T21:12:12 PET" name="setup" finished-at="2022-04-01T21:12:12 PET" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:lab.ManageDemandTest@32f0c7f8]" started-at="2022-04-01T21:25:15 PET" name="setup" finished-at="2022-04-01T21:25:15 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_AllOrdersFromPeru()[pri:0, instance:lab.ManageDemandTest@f446158]" started-at="2022-04-01T21:12:12 PET" name="test_AllOrdersFromPeru" finished-at="2022-04-01T21:12:12 PET" duration-ms="1" status="PASS">
+        <test-method signature="test_AllOrdersFromPeru()[pri:0, instance:lab.ManageDemandTest@32f0c7f8]" started-at="2022-04-01T21:25:15 PET" name="test_AllOrdersFromPeru" finished-at="2022-04-01T21:25:15 PET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_AllOrdersFromPeru -->

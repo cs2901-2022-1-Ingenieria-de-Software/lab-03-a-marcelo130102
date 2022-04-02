@@ -13,21 +13,20 @@ import org.testng.annotations.Test;
 
 public class TaxTest {
 
-    //! Add Tests 
     @Test
     public void taxTestDefault(){
         double result = GetTax(1);
-        Assert.assertEquals(24.00, result);
+        Assert.assertEquals(result, 24.00);
     }
 
     @Test
     public void taxTestSpecial(){
         double result = GetTax(2);
-        Assert.assertEquals(40.00, result);
+        Assert.assertEquals(result, 40.00);
     }
 
     private static List<Order> buildSampleOrders() {
-        List<Order> testOrders = new ArrayList<Order>();
+        List<Order> testOrders = new ArrayList<>();
         testOrders.add(new Order("PE", 10L));
         testOrders.add(new Order("PE", 20L));
         testOrders.add(new Order("CO", 10L));

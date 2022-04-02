@@ -12,7 +12,6 @@ public class ManageDemand {
 
     public double calculateTotal(List<Order> orders){
         // Calculate Taxes and Quantities
-        //* Se movió todo a un solo bucle el calculod e taxes y quantities
 
         double taxes = 0.0;
         double quantities = 0.0;
