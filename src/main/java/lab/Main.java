@@ -25,7 +25,7 @@ public class Main {
     }
 
     private static List<Order> buildSampleOrders() {
-        List<Order> testOrders = new ArrayList<Order>();
+        List<Order> testOrders = new ArrayList<>();
         testOrders.add(new Order("PE", 10L));
         testOrders.add(new Order("PE", 20L));
         testOrders.add(new Order("CO", 10L));
