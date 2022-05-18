@@ -1,40 +1,0 @@
-
-0lab.demand.Tax#calculateTax(Ljava/lang/String;)Dz
-p/home/marcelo/Documentos/UTEC2022-1/Ing_Software/Tareas/lab-03-a-marcelo130102/src/main/java/lab/demand/Tax.java ("5*†
-2z
-p/home/marcelo/Documentos/UTEC2022-1/Ing_Software/Tareas/lab-03-a-marcelo130102/src/main/java/lab/demand/Tax.java	 	("„
-z
-p/home/marcelo/Documentos/UTEC2022-1/Ing_Software/Tareas/lab-03-a-marcelo130102/src/main/java/lab/demand/Tax.java	 	(
-""*‰
-3z
-p/home/marcelo/Documentos/UTEC2022-1/Ing_Software/Tareas/lab-03-a-marcelo130102/src/main/java/lab/demand/Tax.java (ÿü
-z
-p/home/marcelo/Documentos/UTEC2022-1/Ing_Software/Tareas/lab-03-a-marcelo130102/src/main/java/lab/demand/Tax.java ('
-%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-countryjava.lang.String*
-BR2equals(Ljava/lang/Object;)*
-2
-1*†
-4z
-p/home/marcelo/Documentos/UTEC2022-1/Ing_Software/Tareas/lab-03-a-marcelo130102/src/main/java/lab/demand/Tax.java ("„
-z
-p/home/marcelo/Documentos/UTEC2022-1/Ing_Software/Tareas/lab-03-a-marcelo130102/src/main/java/lab/demand/Tax.java (
-""*‰
-5z
-p/home/marcelo/Documentos/UTEC2022-1/Ing_Software/Tareas/lab-03-a-marcelo130102/src/main/java/lab/demand/Tax.java (ÿü
-z
-p/home/marcelo/Documentos/UTEC2022-1/Ing_Software/Tareas/lab-03-a-marcelo130102/src/main/java/lab/demand/Tax.java ( 
-%0boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
-
-countryjava.lang.String*
-PE2equals(Ljava/lang/Object;)*
-3
-4*†
-1z
-p/home/marcelo/Documentos/UTEC2022-1/Ing_Software/Tareas/lab-03-a-marcelo130102/src/main/java/lab/demand/Tax.java ("„
-z
-p/home/marcelo/Documentos/UTEC2022-1/Ing_Software/Tareas/lab-03-a-marcelo130102/src/main/java/lab/demand/Tax.java (
-"":
-countryjava.lang.StringB
-lab.demand.Tax
